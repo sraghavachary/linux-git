@@ -1,2 +1,3 @@
 hi this is linux-git server
-hi this is achary 
+hi this is linux-git server
+hi this is achary
